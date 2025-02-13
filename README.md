@@ -3,4 +3,4 @@ GenAI 第一週作業接收測試模板
 
 如果你有看到這行字，代表你已經成功接收這份作業！
 
-[<img alt="alt_text" width="40px" src="[images/image.PNG](https://docs.google.com/presentation/d/1WDMzopKq5BsXk4WoBNpI11dSFyWMC2Rr8--ayDkbkXk/edit?usp=drive_link)" />]
+[<img alt="alt_text" width="40px" src="https://docs.google.com/presentation/d/1WDMzopKq5BsXk4WoBNpI11dSFyWMC2Rr8--ayDkbkXk/edit?usp=drive_link" />]
